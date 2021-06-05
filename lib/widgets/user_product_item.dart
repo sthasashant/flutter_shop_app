@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:shop_app/screens/edit_product_screen.dart';
+import 'package:shop_app/screens/user_product_screen.dart';
 
 class UserProductItem extends StatelessWidget {
   final String title;
